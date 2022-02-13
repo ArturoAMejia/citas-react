@@ -85,7 +85,7 @@ const Formulario = () => {
 
         <input
           type="submit"
-          className="bg-indigo-600 w-full p-3 text-white uppercase font-bold rounded-md hover:bg-indigo-700"
+          className="bg-indigo-600 w-full p-3 text-white uppercase font-bold rounded-md hover:bg-indigo-700 mb-10"
           value={"Agregar Paciente"}
         />
       </form>
